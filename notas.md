@@ -13,3 +13,7 @@ Específico para nomear as classes e não os arquivos
 
 ##Banner
 Para que o position absolute do título funcione é necessário colocar position relative no banner, absoluto em relação ao banner e não a página.
+
+##Boas práticas
+Colocar o css em ordem alfabética.
+Imagens ilustrativas devem ficar no CSS e não no HTML.

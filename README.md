@@ -1,5 +1,5 @@
 <h1 align="center">Alura Fruta e fruto</h1>
-<p align="center">Projeto em estudo</p>
+<p align="center">Projeto finalizado</p>
 
 <p align="center">
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,6 +18,9 @@ Esse projeto foi desenvolvido com as seguintes tcnologias:
 
 ## 💻 Projeto
 Projeto realizado durante curso da Alura: Arquitetura CSS: descomplicando os problemas.
+Neste projeto pude estudar um pouco mais sobre o BEM.
+
+[Visite o projeto online](https://alura-fruta-e-fruto-three.vercel.app/)
 
 ## 📝 Licença
 
